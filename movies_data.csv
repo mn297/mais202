@@ -1,0 +1,438 @@
+title,imdb_rating,length,rank_in_year,rating,studio,worldwide_gross,year
+Black Panther,7.4,135,1,PG-13,Walt Disney Pictures,"$700,059,566",2018
+Avengers: Infinity War,8.5,156,2,PG-13,Walt Disney Pictures,"$678,815,482",2018
+Incredibles 2,7.8,118,3,PG,Pixar,"$608,581,744",2018
+Jurassic World: Fallen Kingdom,6.2,129,4,PG-13,Universal Pictures,"$416,769,345",2018
+Deadpool 2,7.8,119,5,R,20th Century Fox,"$318,491,426",2018
+Mission: Impossible - Fallout,7.9,147,6,PG-13,Paramount Pictures,"$220,159,104",2018
+Ant-Man and the Wasp,7.2,118,7,PG-13,Walt Disney Pictures,"$216,648,740",2018
+Solo: A Star Wars Story,7,135,8,PG-13,Walt Disney Pictures,"$213,767,512",2018
+Venom,6.9,112,9,PG-13,Columbia Pictures,"$213,030,843",2018
+A Star is Born ,8.1,135,10,R,Warner Bros,"$199,721,727",2018
+Star Wars: The Last Jedi,7.2,152,1,PG-13,Walt Disney Pictures,"$620,181,382",2017
+Beauty and the Beast ,7.2,129,2,PG,Walt Disney Pictures,"$504,014,165",2017
+Wonder Woman,7.5,141,3,PG-13,Warner Bros,"$412,563,408",2017
+Jumanji: Welcome to the Jungle,7,112,4,PG-13,Sony Pictures,"$404,515,480",2017
+Guardians of the Galaxy Vol. 2,7.7,137,5,PG-13,Walt Disney Pictures,"$389,813,101",2017
+Spider-Man: Homecoming,7.5,133,6,PG-13,Sony Pictures,"$334,201,140",2017
+It,7.4,135,7,R,Warner Bros,"$327,481,748",2017
+Thor: Ragnarok,7.9,130,8,PG-13,Walt Disney Pictures,"$315,058,289",2017
+Despicable Me 3,6.3,90,9,PG,Universal Pictures,"$264,624,300",2017
+Justice League,6.5,110,10,PG-13,Warner Bros,"$229,024,295",2017
+Rogue One: A Star Wars Story,7.8,133,1,PG-13,Walt Disney Pictures,"$532,177,324",2016
+Finding Dory,7.3,100,2,PG,Walt Disney Pictures,"$486,295,561",2016
+Captain America: Civil War,7.8,146,3,PG-13,Walt Disney Pictures,"$408,084,349",2016
+The Secret Life of Pets,6.5,90,4,PG,Universal Pictures,"$368,384,330",2016
+The Jungle Book ,7.4,111,5,PG,Walt Disney Pictures,"$364,001,123",2016
+Deadpool,8,103,6,R,20th Century Fox,"$363,070,709",2016
+Zootopia,8,108,7,PG,Walt Disney Pictures,"$341,268,248",2016
+Batman v Superman: Dawn of Justice,6.5,151,8,PG-13,Warner Bros,"$330,360,194",2016
+Suicide Squad,6.1,123,9,PG-13,Warner Bros,"$325,100,054",2016
+Sing,7.1,108,10,PG,Universal Pictures,"$270,395,425",2016
+Star Wars: The Force Awakens,8,136,1,PG-13,Walt Disney Pictures,"$936,662,225",2015
+Jurassic World,7,123,2,PG-13,Universal Pictures,"$652,270,625",2015
+Avengers: Age of Ultron,7.4,141,3,PG-13,Walt Disney Pictures,"$459,005,868",2015
+Inside Out,8.2,94,4,PG,Pixar,"$356,461,711",2015
+Furious 7,7.2,140,5,PG-13,Universal Pictures,"$353,007,020",2015
+Minions,6.4,91,6,PG,Universal Pictures,"$336,045,770",2015
+The Hunger Games: Mockingjay - Part 2,6.6,137,7,PG-13,Lionsgate Films,"$281,723,902",2015
+The Martian,8,164,8,PG-13,20th Century Fox,"$228,433,663",2015
+Cinderella,6.9,105,9,PG,Walt Disney Pictures,"$201,151,353",2015
+Spectre,6.8,150,10,PG-13,Sony Pictures,"$200,074,609",2015
+Transformers: Age of Extinction,5.8,165,1,PG-13,Paramount Pictures,"$1,091,404,499.00",2014
+The Hobbit: The Battle of the Five Armies,7.5,144,2,PG-13,Warner Bros,"$955,113,783.00",2014
+Guardians of the Galaxy,8.1,121,3,PG-13,Walt Disney Pictures,"$774,176,600.00",2014
+Maleficent,7.1,97,4,PG,Walt Disney Pictures,"$758,654,942.00",2014
+The Hunger Games: Mockingjay - Part 1,6.8,123,5,PG-13,Lionsgate Films,"$752,100,229.00",2014
+X-Men: Days of Future Past,8.1,131,6,PG-13,20th Century Fox,"$748,121,534.00",2014
+Captain America: The Winter Soldier,7.8,136,7,PG-13,Walt Disney Pictures,"$714,766,572.00",2014
+The Amazing Spider-Man 2,6.9,142,8,PG-13,Columbia Pictures,"$709,582,323.00",2014
+Dawn of the Planet of the Apes,7.7,130,9,PG-13,20th Century Fox,"$708,835,589.00",2014
+Interstellar,8.7,169,10,PG-13,Paramount Pictures,"$672,974,414.00",2014
+Frozen,7.7,102,1,PG,Walt Disney Pictures,"$1,274,219,009.00",2013
+Iron Man 3,7.3,130,2,PG-13,Walt Disney Pictures,"$1,215,439,994.00",2013
+Despicable Me 2,7.5,98,3,PG,Universal Pictures,"$970,761,885.00",2013
+The Hobbit: The Desolation of Smaug,8,161,4,PG-13,Warner Bros,"$960,366,855.00",2013
+The Hunger Games: Catching Fire,7.7,146,5,PG-13,Lionsgate Films,"$864,912,963.00",2013
+Fast & Furious 6,7.2,130,6,PG-13,Universal Pictures,"$788,679,850.00",2013
+Monsters University,7.4,104,7,G,Walt Disney Pictures,"$743,559,607.00",2013
+Gravity,7.9,91,8,PG-13,Warner Bros,"$716,392,705.00",2013
+Man of Steel,7.2,143,9,PG-13,Warner Bros,"$668,045,518.00",2013
+Thor: The Dark World,7.1,112,10,PG-13,Walt Disney Pictures,"$644,783,140.00",2013
+The Avengers,8.2,143,1,PG-13,Walt Disney Pictures,"$1,518,594,910.00",2012
+Skyfall,7.8,143,2,PG-13,Metro-Goldwyn-Mayer,"$1,108,561,013.00",2012
+The Dark Knight Rises,8.5,165,3,PG-13,Warner Bros,"$1,084,439,099.00",2012
+The Hobbit: An Unexpected Journey,8,169,4,PG-13,Warner Bros,"$1,017,003,568.00",2012
+Ice Age: Continental Drift,6.7,88,5,PG,20th Century Fox,"$877,244,782.00",2012
+The Twilight Saga: Breaking Dawn - Part 2,5.6,115,6,PG-13,Lionsgate Films,"$829,685,377.00",2012
+The Amazing Spider-Man,7.1,136,7,PG-13,Columbia Pictures,"$757,930,663.00",2012
+Madagascar 3: Europe's Most Wanted,7,93,8,PG,Paramount Pictures,"$746,921,274.00",2012
+The Hunger Games,7.3,142,9,PG-13,Lionsgate Films,"$691,247,768.00",2012
+Men in Black 3,6.9,106,10,PG-13,Columbia Pictures,"$624,026,776.00",2012
+Harry Potter and the Deathly Hallows - Part 2,8.1,130,1,PG-13,Warner Bros,"$1,341,511,219.00",2011
+Transformers: Dark of the Moon,6.3,154,2,PG-13,Paramount Pictures,"$1,123,794,079.00",2011
+Pirates of the Caribbean: On Stranger Tides,6.7,136,3,PG-13,Walt Disney Pictures,"$1,045,713,802.00",2011
+The Twilight Saga: Breaking Dawn - Part 1,4.9,117,4,PG-13,Lionsgate Films,"$712,171,856.00",2011
+Mission: Impossible - Ghost Protocol,7.4,133,5,PG-13,Paramount Pictures,"$694,713,380.00",2011
+Kung Fu Panda 2,7.3,91,6,PG,Paramount Pictures,"$665,692,281.00",2011
+Fast Five,7.3,131,7,PG-13,Universal Pictures,"$626,137,675.00",2011
+The Hangover Part II,6.5,102,8,R,Warner Bros,"$586,764,305.00",2011
+The Smurfs,5.5,103,9,PG,Columbia Pictures,"$563,749,323.00",2011
+Cars 2,6.3,106,10,G,Walt Disney Pictures,"$559,852,396.00",2011
+Toy Story 3,8.4,103,1,G,Walt Disney Pictures,"$1,063,171,911.00",2010
+Alice in Wonderland,6.5,108,2,PG,Walt Disney Pictures,"$1,025,467,110.00",2010
+Harry Potter and the Deathly Hallows - Part 1,7.7,146,3,PG-13,Warner Bros,"$960,283,305.00",2010
+Inception,8.8,148,4,PG-13,Warner Bros,"$825,531,030.00",2010
+Shrek Forever After,6.4,93,5,PG,Paramount Pictures,"$752,600,867.00",2010
+The Twilight Saga: Eclipse,4.9,124,6,PG-13,Lionsgate Films,"$698,491,347.00",2010
+Iron Man 2,7.1,124,7,PG-13,Paramount Pictures,"$623,933,331.00",2010
+Tangled,7.8,100,8,PG,Walt Disney Pictures,"$591,794,936.00",2010
+Despicable Me,7.7,95,9,PG,Universal Pictures,"$543,113,985.00",2010
+How to Train Your Dragon,8.2,98,10,PG,Paramount Pictures,"$494,878,759.00",2010
+Avatar,7.9,162,1,PG-13,20th Century Fox,"$2,749,064,328.00",2009
+Harry Potter and the Half-Blood Prince,7.5,153,2,PG,Warner Bros,"$934,416,487.00",2009
+Ice Age: Dawn of the Dinosaurs,7,94,3,PG,20th Century Fox,"$886,686,817.00",2009
+Transformers: Revenge of the Fallen,6,150,4,PG-13,Paramount Pictures,"$836,303,693.00",2009
+2012,5.8,158,5,PG-13,Columbia Pictures,"$769,304,749.00",2009
+Up,8.3,96,6,PG,Pixar,"$731,342,744.00",2009
+The Twilight Saga: New Moon,4.6,130,7,PG-13,Lionsgate Films,"$709,827,462.00",2009
+Sherlock Holmes,7.6,128,8,PG-13,Warner Bros,"$524,028,679.00",2009
+Angels & Demons,6.7,138,9,PG-13,Columbia Pictures,"$485,930,816.00",2009
+The Hangover,7.8,100,10,R,Warner Bros,"$467,483,912.00",2009
+The Dark Knight,9,152,1,PG-13,Warner Bros,"$997,000,000.00",2008
+Indiana Jones and the Kingdom of the Crystal Skull,6.2,122,2,PG-13,Paramount Pictures,"$786,636,033.00",2008
+Kung Fu Panda,7.6,92,3,PG,Paramount Pictures,"$631,744,560.00",2008
+Hancock,6.5,92,4,PG-13,Columbia Pictures,"$624,386,746.00",2008
+Mamma Mia!,6.4,108,5,PG-13,Universal Pictures,"$609,827,661.00",2008
+Madagascar: Escape 2 Africa,6.7,89,6,PG,Paramount Pictures,"$603,900,354.00",2008
+Quantum of Solace,6.7,106,7,PG-13,Metro-Goldwyn-Mayer,"$586,090,727.00",2008
+Iron Man,7.9,126,8,PG-13,Paramount Pictures,"$585,174,222.00",2008
+WALL-E,8.4,98,9,G,Pixar,"$521,311,860.00",2008
+The Chronicles of Narnia: Prince Caspian,6.6,150,10,PG,Walt Disney Pictures,"$419,665,568.00",2008
+Pirates of the Caribbean: At World's End,7.1,169,1,PG-13,Walt Disney Pictures,"$963,420,425.00",2007
+Harry Potter and the Order of the Phoenix,7.4,138,2,PG-13,Warner Bros,"$939,885,929.00",2007
+Spider-Man 3,6.2,139,3,PG-13,Columbia Pictures,"$890,871,626.00",2007
+Shrek the Third,6.1,93,4,PG,DreamWorks,"$798,958,162.00",2007
+Transformers,7.2,144,5,PG-13,DreamWorks,"$709,709,780.00",2007
+Ratatouille,8,111,6,G,Pixar,"$623,707,397.00",2007
+I Am Legend,7.2,101,7,PG-13,Warner Bros,"$585,349,010.00",2007
+The Simpsons Movie,7.4,87,8,PG-13,20th Century Fox,"$527,071,022.00",2007
+National Treasure: Book of Secrets,6.5,124,9,PG,Walt Disney Pictures,"$457,364,600.00",2007
+300,7.8,117,10,R,Warner Bros,"$456,068,181.00",2007
+Pirates of the Caribbean: Dead Man's Chest,7.3,151,1,PG-13,Walt Disney Pictures,"$1,066,179,725.00",2006
+The Da Vinci Code,6.5,149,2,PG-13,Columbia Pictures,"$758,239,851.00",2006
+Ice Age: The Meltdown,6.9,91,3,PG,20th Century Fox,"$660,940,780.00",2006
+Casino Royale,8,144,4,PG-13,Metro-Goldwyn-Mayer,"$599,045,960.00",2006
+Night at the Museum,6.4,108,5,PG,20th Century Fox,"$574,480,052.00",2006
+Cars,7.2,117,6,G,Pixar,"$461,983,149.00",2006
+X-Men: The Last Stand,6.8,104,7,PG-13,20th Century Fox,"$459,359,555.00",2006
+Mission: Impossible III,6.8,126,8,PG-13,Paramount Pictures,"$397,850,012.00",2006
+Superman Returns,6.1,154,9,PG-13,Warner Bros,"$391,081,192.00",2006
+Happy Feet,6.5,108,10,PG,Warner Bros,"$384,335,608.00",2006
+Harry Potter and the Goblet of Fire,7.6,157,1,PG-13,Warner Bros,"$895,921,036.00",2005
+Star Wars Episode III: Revenge of the Sith,7.7,140,2,PG-13,20th Century Fox,"$848,754,768.00",2005
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",6.9,143,3,PG,Walt Disney Pictures,"$745,011,272.00",2005
+War of the Worlds,6.5,116,4,PG-13,Paramount Pictures,"$591,745,540.00",2005
+King Kong,7.3,187,5,PG-13,Universal Pictures,"$550,517,357.00",2005
+Madagascar,6.9,86,6,PG,DreamWorks,"$532,680,671.00",2005
+Mr. & Mrs. Smith,6.5,120,7,PG-13,20th Century Fox,"$478,207,520.00",2005
+Charlie and the Chocolate Factory,6.7,115,8,PG,Warner Bros,"$474,968,763.00",2005
+Batman Begins,8.3,140,9,PG-13,Warner Bros,"$372,710,015.00",2005
+Hitch,6.7,118,10,PG-13,Columbia Pictures,"$368,100,420.00",2005
+Shrek 2,7.2,93,1,PG,DreamWorks,"$919,838,758.00",2004
+Harry Potter and the Prisoner of Azkaban,7.8,142,2,PG,Warner Bros,"$795,634,069.00",2004
+Spider-Man 2,7.3,127,3,PG-13,Columbia Pictures,"$783,766,341.00",2004
+The Incredibles,8,115,4,PG,Pixar,"$631,442,092.00",2004
+The Passion of the Christ,7.1,127,5,R,Newmarket Films,"$611,899,420.00",2004
+The Day After Tomorrow,6.4,124,6,PG-13,20th Century Fox,"$544,272,402.00",2004
+Meet the Fockers,6.3,115,7,PG-13,Universal Pictures,"$516,642,939.00",2004
+Troy,7.2,163,8,R,Warner Bros,"$497,409,852.00",2004
+Shark Tale,6,90,9,PG,DreamWorks,"$367,275,019.00",2004
+Ocean's Twelve,6.4,125,10,PG-13,Warner Bros,"$362,744,280.00",2004
+The Lord of the Rings: The Return of the King,8.9,201,1,PG-13,Warner Bros,"$1,119,929,521.00",2003
+Finding Nemo,8.2,100,2,G,Pixar,"$867,893,978.00",2003
+The Matrix Reloaded,7.2,138,3,R,Warner Bros,"$742,128,461.00",2003
+Pirates of the Caribbean: The Curse of the Black Pearl,8.1,143,4,PG-13,Walt Disney Pictures,"$654,264,015.00",2003
+Bruce Almighty,6.7,101,5,PG-13,Universal Pictures,"$484,592,874.00",2003
+The Last Samurai,7.7,154,6,R,Warner Bros,"$456,758,981.00",2003
+Terminator 3: Rise of the Machines,6.4,109,7,R,Warner Bros,"$433,371,112.00",2003
+The Matrix Revolutions,6.7,129,8,R,Warner Bros,"$427,343,298.00",2003
+X2,7.5,134,9,PG-13,20th Century Fox,"$407,711,549.00",2003
+Bad Boys II,6.5,147,10,R,Columbia Pictures,"$273,339,556.00",2003
+The Lord of the Rings: The Two Towers,8.7,179,1,PG-13,Warner Bros,"$926,287,400.00",2002
+Harry Potter and the Chamber of Secrets,7.3,161,2,PG,Warner Bros,"$878,643,482.00",2002
+Spider-Man,7.3,121,3,PG-13,Columbia Pictures,"$821,708,551.00",2002
+Star Wars Episode II: Attack of the Clones,6.7,142,4,PG,20th Century Fox,"$649,398,328.00",2002
+Men in Black II,6,88,5,PG-13,Columbia Pictures,"$441,818,803.00",2002
+Die Another Day,6.1,133,6,PG-13,Metro-Goldwyn-Mayer,"$431,971,116.00",2002
+Signs,6.7,106,7,PG-13,Walt Disney Pictures,"$408,247,917.00",2002
+Ice Age,7.6,81,8,PG,20th Century Fox,"$383,257,136.00",2002
+My Big Fat Greek Wedding,6.6,95,9,PG,IFC Films,"$368,744,044.00",2002
+Minority Report,7.7,145,10,PG-13,DreamWorks,"$358,372,926.00",2002
+Harry Potter and the Sorcerer's Stone,7.5,152,1,PG,Warner Bros,"$974,733,550.00",2001
+The Lord of the Rings: The Fellowship of the Ring,8.8,178,2,PG-13,Warner Bros,"$870,761,744.00",2001
+"Monsters, Inc.",8.1,92,3,G,Pixar,"$525,366,597.00",2001
+Shrek,7.9,90,4,PG,DreamWorks,"$484,409,218.00",2001
+Ocean's Eleven,7.8,116,5,PG-13,Warner Bros,"$450,717,150.00",2001
+Pearl Harbor,6,183,6,PG-13,Walt Disney Pictures,"$449,220,945.00",2001
+The Mummy Returns,6.3,130,7,PG-13,Universal Pictures,"$433,013,274.00",2001
+Jurassic Park III,5.9,92,8,PG-13,Universal Pictures,"$368,780,809.00",2001
+Planet of the Apes,5.7,119,9,PG-13,20th Century Fox,"$362,211,740.00",2001
+Hannibal,6.7,131,10,R,Metro-Goldwyn-Mayer,"$351,692,268.00",2001
+Mission: Impossible II,6,123,1,PG-13,Paramount Pictures,"$546,388,105.00",2000
+Gladiator,8.5,155,2,R,DreamWorks,"$457,640,427.00",2000
+Cast Away,7.7,143,3,PG-13,20th Century Fox,"$429,632,142.00",2000
+What Women Want,6.4,127,4,PG-13,Paramount Pictures,"$374,111,707.00",2000
+Dinosaur,6.4,82,5,PG,Walt Disney Pictures,"$349,822,765.00",2000
+How the Grinch Stole Christmas,6,104,6,PG,Universal Pictures,"$345,141,403.00",2000
+Meet the Parents,7,108,7,PG-13,Universal Pictures,"$330,444,045.00",2000
+The Perfect Storm,6.4,130,8,PG-13,Warner Bros,"$328,718,434.00",2000
+X-Men,7.4,104,9,PG-13,20th Century Fox,"$296,339,527.00",2000
+What Lies Beneath,6.6,130,10,PG-13,DreamWorks,"$291,420,351.00",2000
+Star Wars Episode I: The Phantom Menace,6.6,136,1,PG,20th Century Fox,"$924,317,558.00",1999
+The Sixth Sense,8.2,107,2,PG-13,Walt Disney Pictures,"$672,806,292.00",1999
+Toy Story 2,7.9,92,3,G,Walt Disney Pictures,"$485,015,179.00",1999
+The Matrix,8.7,136,4,R,Warner Bros,"$460,379,930.00",1999
+Tarzan,7.2,88,5,G,Walt Disney Pictures,"$448,191,819.00",1999
+The Mummy,7,125,6,PG-13,Universal Pictures,"$415,933,406.00",1999
+Notting Hill,7,124,7,PG-13,Universal Pictures,"$363,889,678.00",1999
+The World Is Not Enough,6.4,128,8,PG-13,Metro-Goldwyn-Mayer,"$361,832,400.00",1999
+American Beauty,8.4,122,9,R,DreamWorks,"$356,296,601.00",1999
+Austin Powers: The Spy Who Shagged Me,6.6,95,10,PG-13,Warner Bros,"$312,016,858.00",1999
+Armageddon,6.6,151,1,PG-13,Walt Disney Pictures,"$553,709,788.00",1998
+Saving Private Ryan,8.6,169,2,R,DreamWorks,"$481,840,909.00",1998
+Godzilla,5.3,139,3,PG-13,Sony Pictures,"$379,014,294.00",1998
+There's Something About Mary,7.1,119,4,R,20th Century Fox,"$369,884,651.00",1998
+A Bug's Life,7.2,95,5,G,Walt Disney Pictures,"$363,398,565.00",1998
+Deep Impact,6.1,120,6,PG-13,DreamWorks,"$349,464,664.00",1998
+Mulan,7.5,88,7,G,Walt Disney Pictures,"$304,320,254.00",1998
+Dr. Dolittle,5.3,85,8,PG-13,20th Century Fox,"$294,456,605.00",1998
+Shakespeare in Love,7.2,123,9,R,Universal Pictures,"$289,317,794.00",1998
+Lethal Weapon 4,6.6,127,10,R,Warner Bros,"$285,444,603.00",1998
+Titanic,7.7,194,1,PG-13,Paramount Pictures,"$1,843,201,268.00",1997
+The Lost World: Jurassic Park,6.5,129,2,PG-13,Universal Pictures,"$618,638,999.00",1997
+Men in Black,7.2,98,3,PG-13,Columbia Pictures,"$589,390,539.00",1997
+Tomorrow Never Dies,6.5,119,4,PG-13,Metro-Goldwyn-Mayer,"$333,011,068.00",1997
+Air Force One,6.4,124,5,R,Columbia Pictures,"$315,156,409.00",1997
+As Good as It Gets,7.8,139,6,PG-13,Sony Pictures,"$314,178,011.00",1997
+Liar Liar,6.8,86,7,PG-13,Universal Pictures,"$302,710,615.00",1997
+My Best Friend's Wedding,6.3,105,8,PG-13,Sony Pictures,"$299,288,605.00",1997
+The Fifth Element,7.6,126,9,PG-13,Columbia Pictures,"$263,920,180.00",1997
+The Full Monty,7.2,91,10,R,20th Century Fox,"$257,850,122.00",1997
+Independence Day,6.9,145,1,PG-13,20th Century Fox,"$817,400,891.00",1996
+Twister,6.2,113,2,PG-13,Warner Bros,"$494,471,524.00",1996
+Mission: Impossible,7.1,110,3,PG-13,Paramount Pictures,"$457,696,359.00",1996
+The Rock,7.4,136,4,R,Walt Disney Pictures,"$335,062,621.00",1996
+The Hunchback of Notre Dame,6.9,91,5,G,Walt Disney Pictures,"$325,338,851.00",1996
+101 Dalmatians,5.6,103,6,G,Walt Disney Pictures,"$320,689,294.00",1996
+Ransom,6.6,121,7,R,Walt Disney Pictures,"$309,492,681.00",1996
+The Nutty Professor,5.5,95,8,PG-13,Universal Pictures,"$273,961,019.00",1996
+Jerry Maguire,7.3,139,9,R,Sony Pictures,"$273,552,592.00",1996
+Eraser,6,115,10,R,Warner Bros,"$242,295,562.00",1996
+Die Hard with a Vengeance,7.6,131,1,R,20th Century Fox,"$366,101,766.00",1995
+Toy Story,8.3,81,2,G,Walt Disney Pictures,"$361,958,736.00",1995
+Apollo 13,7.6,140,3,PG,Universal Pictures,"$353,471,312.00",1995
+GoldenEye,7.2,130,4,PG-13,Metro-Goldwyn-Mayer,"$352,194,034.00",1995
+Pocahontas,6.6,81,5,G,Walt Disney Pictures,"$346,079,773.00",1995
+Batman Forever,5.4,121,6,PG-13,Warner Bros,"$336,529,144.00",1995
+Seven,8.7,127,7,R,Warner Bros,"$327,311,859.00",1995
+Casper,6,100,8,PG,Universal Pictures,"$287,928,194.00",1995
+Waterworld,6.1,135,9,PG-13,Universal Pictures,"$264,218,220.00",1995
+Jumanji,6.8,104,10,PG,Sony Pictures,"$262,797,249.00",1995
+The Lion King,8.5,89,1,G,Walt Disney Pictures,"$768,625,889.00",1994
+Forrest Gump,8.8,142,2,PG-13,Paramount Pictures,"$677,387,716.00",1994
+True Lies,7.2,141,3,R,20th Century Fox,"$378,882,411.00",1994
+The Mask,6.8,101,4,PG-13,Warner Bros,"$351,583,407.00",1994
+Speed,7.2,116,5,R,20th Century Fox,"$350,448,145.00",1994
+The Flintstones,4.8,91,6,PG,Universal Pictures,"$341,631,208.00",1994
+Dumb and Dumber,7.3,107,7,PG-13,Warner Bros,"$247,275,374.00",1994
+Four Weddings and a Funeral,7.1,117,8,R,Universal Pictures,"$245,700,832.00",1994
+Interview with the Vampire: The Vampire Chronicles,7.6,123,9,R,Warner Bros,"$223,664,608.00",1994
+Clear and Present Danger,6.9,141,10,PG-13,Paramount Pictures,"$215,887,717.00",1994
+Jurassic Park,8,127,1,PG-13,Universal Pictures,"$914,691,118.00",1993
+Mrs. Doubtfire,6.9,125,2,PG-13,20th Century Fox,"$441,286,195.00",1993
+The Fugitive,7.8,130,3,PG-13,Warner Bros,"$368,875,760.00",1993
+Schindler's List,8.9,195,4,R,Universal Pictures,"$321,306,305.00",1993
+The Firm,6.8,154,5,R,Paramount Pictures,"$270,248,367.00",1993
+Indecent Proposal,5.8,117,6,R,Paramount Pictures,"$266,614,059.00",1993
+Cliffhanger,6.3,112,7,R,Sony Pictures,"$255,000,211.00",1993
+Sleepless in Seattle,6.8,105,8,PG,Sony Pictures,"$227,799,884.00",1993
+Philadelphia,7.7,125,9,PG-13,Sony Pictures,"$206,678,440.00",1993
+The Pelican Brief,6.5,141,10,PG-13,Warner Bros,"$195,268,056.00",1993
+Aladdin,8,90,1,G,Walt Disney Pictures,"$504,050,219.00",1992
+The Bodyguard,6.1,129,2,R,Warner Bros,"$411,006,740.00",1992
+Home Alone 2: Lost in New York,6.5,120,3,PG,20th Century Fox,"$358,994,850.00",1992
+Basic Instinct,6.9,127,4,R,Sony Pictures,"$352,927,224.00",1992
+Lethal Weapon 3,6.7,118,5,R,Warner Bros,"$321,731,527.00",1992
+Batman Returns,7,126,6,PG-13,Warner Bros,"$266,822,354.00",1992
+A Few Good Men,7.6,138,7,R,Columbia Pictures,"$243,240,178.00",1992
+Sister Act,6.2,100,8,PG,Walt Disney Pictures,"$231,605,150.00",1992
+Bram Stoker's Dracula,7.5,128,9,R,Columbia Pictures,"$215,862,692.00",1992
+Wayne's World,7,94,10,PG-13,Paramount Pictures,"$183,097,323.00",1992
+Terminator 2: Judgment Day,8.5,137,1,R,Sony Pictures,"$519,843,345.00",1991
+Robin Hood: Prince of Thieves,6.9,143,2,PG-13,Warner Bros,"$390,493,908.00",1991
+Beauty and the Beast,8,84,3,G,Walt Disney Pictures,"$351,863,363.00",1991
+Hook,6.7,142,4,PG,Sony Pictures,"$300,854,823.00",1991
+The Silence of the Lambs,8.6,118,5,R,Metro-Goldwyn-Mayer,"$272,742,922.00",1991
+JFK,8,189,6,R,Warner Bros,"$205,405,498.00",1991
+The Addams Family,6.8,99,7,PG-13,Paramount Pictures,"$191,502,426.00",1991
+Cape Fear,7.3,128,8,R,Universal Pictures,"$182,291,969.00",1991
+Hot Shots!,6.7,84,9,PG-13,20th Century Fox,"$181,096,164.00",1991
+City Slickers,6.7,113,10,PG-13,Columbia Pictures,"$179,033,791.00",1991
+Ghost,7,127,1,PG-13,Paramount Pictures,"$505,702,588.00",1990
+Home Alone,7.4,103,2,PG,20th Century Fox,"$476,684,675.00",1990
+Pretty Woman,6.9,119,3,R,Walt Disney Pictures,"$463,406,268.00",1990
+Dances with Wolves,8,181,4,PG-13,Metro-Goldwyn-Mayer,"$424,208,848.00",1990
+Total Recall,7.5,113,5,R,Sony Pictures,"$261,336,002.00",1990
+Back to the Future Part III,7.4,118,6,PG,Universal Pictures,"$244,527,583.00",1990
+Die Hard 2,7.1,124,7,R,20th Century Fox,"$240,031,094.00",1990
+Presumed Innocent,6.9,127,8,R,Warner Bros,"$221,303,188.00",1990
+Teenage Mutant Ninja Turtles,6.7,93,9,PG,Warner Bros,"$201,965,915.00",1990
+Kindergarten Cop,6,111,10,PG-13,Universal Pictures,"$201,957,688.00",1990
+Indiana Jones and the Last Crusade,8.3,127,1,PG-13,Paramount Pictures,"$474,171,806.00",1989
+Batman,7.6,126,2,PG-13,Warner Bros,"$411,348,924.00",1989
+Back to the Future Part II,7.8,108,3,PG,Universal Pictures,"$331,950,002.00",1989
+Look Who's Talking,5.8,93,4,PG-13,Sony Pictures,"$296,999,813.00",1989
+Dead Poets Society,8,128,5,PG,Walt Disney Pictures,"$235,860,116.00",1989
+Lethal Weapon 2,7.2,114,6,R,Warner Bros,"$227,853,986.00",1989
+"Honey, I Shrunk the Kids",6.2,93,7,PG,Walt Disney Pictures,"$222,724,172.00",1989
+Ghostbusters II,6.5,108,8,PG,Columbia Pictures,"$215,394,738.00",1989
+The Little Mermaid,7.6,83,9,G,Walt Disney Pictures,"$184,155,863.00",1989
+Born on the Fourth of July,7.2,145,10,R,Universal Pictures,"$161,001,698.00",1989
+Rain Man,8,133,1,R,Metro-Goldwyn-Mayer,"$172,825,435.00",1988
+Who Framed Roger Rabbit,7.7,104,2,PG,Walt Disney Pictures,"$156,452,370.00",1988
+Coming to America,6.9,116,3,R,Paramount Pictures,"$128,152,301.00",1988
+Big,7.3,104,4,PG,20th Century Fox,"$114,968,774.00",1988
+Twins,5.9,107,5,PG,Universal Pictures,"$111,938,388.00",1988
+"""Crocodile"" Dundee II",5.5,108,6,PG,Paramount Pictures,"$109,306,210.00",1988
+Die Hard,8.3,131,7,R,20th Century Fox,"$83,008,852.00",1988
+The Naked Gun: From the Files of Police Squad!,7.6,85,8,PG-13,Paramount Pictures,"$78,756,177.00",1988
+Cocktail,5.8,104,9,R,Walt Disney Pictures,"$78,222,753.00",1988
+Beetlejuice,7.4,92,10,PG,Warner Bros,"$73,707,461.00",1988
+Three Men and a Baby,5.8,102,1,PG,Walt Disney Pictures,"$167,780,960.00",1987
+Fatal Attraction,6.9,119,2,R,Paramount Pictures,"$156,645,693.00",1987
+Beverly Hills Cop II,6.4,100,3,R,Paramount Pictures,"$153,665,036.00",1987
+"Good Morning, Vietnam",7.3,121,4,R,Walt Disney Pictures,"$123,922,370.00",1987
+Moonstruck,7.1,102,5,PG,Metro-Goldwyn-Mayer,"$80,640,528.00",1987
+The Untouchables,8,119,6,R,Paramount Pictures,"$76,270,454.00",1987
+The Secret of My Success,6.4,111,7,PG-13,Universal Pictures,"$66,995,000.00",1987
+Stakeout,6.6,117,8,R,Walt Disney Pictures,"$65,673,230.00",1987
+Lethal Weapon,7.6,110,9,R,Warner Bros,"$65,207,127.00",1987
+The Witches of Eastwick,6.5,118,10,R,Warner Bros,"$63,766,510.00",1987
+Top Gun,6.8,110,1,PG,Paramount Pictures,"$176,781,728.00",1986
+"""Crocodile"" Dundee",6.5,97,2,PG-13,Paramount Pictures,"$174,803,506.00",1986
+Platoon,8.1,120,3,R,Metro-Goldwyn-Mayer,"$138,530,565.00",1986
+"The Karate Kid, Part II",5.8,113,4,PG,Columbia Pictures,"$115,103,979.00",1986
+Star Trek IV: The Voyage Home,7.3,119,5,PG,Paramount Pictures,"$109,713,132.00",1986
+Back to School,6.5,96,6,PG-13,Metro-Goldwyn-Mayer,"$91,258,000.00",1986
+Aliens,8.4,137,7,R,20th Century Fox,"$86,160,248.00",1986
+An American Tail,6.9,80,8,G,Universal Pictures,"$84,542,002.00",1986
+The Golden Child,5.8,94,9,PG-13,Paramount Pictures,"$79,817,937.00",1986
+Ruthless People,6.8,93,10,R,Walt Disney Pictures,"$71,624,879.00",1986
+Back to the Future,8.5,116,1,PG,Universal Pictures,"$210,609,762.00",1985
+Rambo: First Blood Part II,6.4,96,2,R,Sony Pictures,"$150,415,432.00",1985
+Rocky IV,6.7,91,3,PG,Metro-Goldwyn-Mayer,"$127,873,716.00",1985
+The Color Purple,7.8,154,4,PG-13,Warner Bros,"$94,175,854.00",1985
+Out Of Africa,7.2,161,5,PG,Universal Pictures,"$87,071,205.00",1985
+Cocoon,6.6,117,6,PG-13,20th Century Fox,"$85,313,124.00",1985
+The Jewel of the Nile,6,106,7,PG,20th Century Fox,"$75,973,200.00",1985
+Witness,7.5,112,8,R,Paramount Pictures,"$68,706,993.00",1985
+The Goonies,7.8,114,9,PG,Warner Bros,"$61,389,680.00",1985
+Spies Like Us,6.3,102,10,PG,Warner Bros,"$60,088,980.00",1985
+Ghostbusters,7.8,105,1,PG,Columbia Pictures,"$238,632,124.00",1984
+Beverly Hills Cop,7.3,105,2,R,Paramount Pictures,"$234,760,478.00",1984
+Indiana Jones and the Temple of Doom,7.6,118,3,PG,Paramount Pictures,"$179,870,271.00",1984
+Gremlins,7.2,106,4,PG,Warner Bros,"$153,083,102.00",1984
+The Karate Kid,7.2,126,5,PG,Columbia Pictures,"$90,815,558.00",1984
+Police Academy,6.6,96,6,R,Warner Bros,"$81,198,894.00",1984
+Footloose,6.4,107,7,R,Paramount Pictures,"$80,035,402.00",1984
+The Terminator,8.1,107,8,R,Metro-Goldwyn-Mayer,"$78,400,000.00",1984
+Romancing the Stone,6.9,106,9,PG,20th Century Fox,"$78,371,200.00",1984
+Star Trek III: The Search for Spock,6.6,105,10,PG,Paramount Pictures,"$76,572,238.00",1984
+Star Wars Episode VI: Return of the Jedi,8.4,134,1,PG,Lionsgate Films,"$252,583,617.00",1983
+Terms of Endearment,7.4,132,2,R,Paramount Pictures,"$108,423,489.00",1983
+Flashdance,6.1,95,3,R,Paramount Pictures,"$92,921,203.00",1983
+Trading Places,7.5,116,4,R,Paramount Pictures,"$90,404,800.00",1983
+WarGames,7.1,114,5,PG,Metro-Goldwyn-Mayer,"$79,567,667.00",1983
+Octopussy,6.6,131,6,PG,Metro-Goldwyn-Mayer,"$67,800,000.00",1983
+Sudden Impact,6.6,117,7,R,Warner Bros,"$67,642,693.00",1983
+Staying Alive,4.4,93,8,PG,Paramount Pictures,"$64,892,670.00",1983
+Mr. Mom,6.4,91,9,PG,20th Century Fox,"$64,783,827.00",1983
+Risky Business,6.8,99,10,R,Warner Bros,"$63,541,777.00",1983
+E.T. the Extra-Terrestrial,7.9,115,1,PG,Universal Pictures,"$359,197,037.00",1982
+Tootsie,7.4,116,2,PG,Columbia Pictures,"$177,200,000.00",1982
+An Officer and a Gentleman,7,124,3,R,Paramount Pictures,"$129,795,554.00",1982
+Rocky III,6.7,99,4,PG,Metro-Goldwyn-Mayer,"$124,146,897.00",1982
+Porky's,6.1,94,5,R,20th Century Fox,"$105,492,483.00",1982
+Star Trek II: The Wrath of Khan,7.7,113,6,PG,Paramount Pictures,"$78,912,963.00",1982
+48 Hrs.,6.9,96,7,R,Paramount Pictures,"$78,868,508.00",1982
+Poltergeist,7.4,114,8,PG,Metro-Goldwyn-Mayer,"$76,606,280.00",1982
+The Best Little Whorehouse in Texas,5.7,114,9,R,Universal Pictures,"$69,701,637.00",1982
+Annie,6.5,127,10,PG,Columbia Pictures,"$57,059,003.00",1982
+Raiders of the Lost Ark,8.6,115,1,PG,Paramount Pictures,"$212,222,025.00",1981
+On Golden Pond,7.7,109,2,PG,Universal Pictures,"$119,285,432.00",1981
+Superman II,6.8,127,3,PG,Warner Bros,"$108,185,706.00",1981
+Arthur,6.9,97,4,PG,Warner Bros,"$95,461,682.00",1981
+Stripes,6.9,106,5,R,Columbia Pictures,"$85,297,000.00",1981
+The Cannonball Run,6.1,95,6,PG,20th Century Fox,"$72,179,579.00",1981
+Chariots of Fire,7.2,119,7,PG,Warner Bros,"$58,972,904.00",1981
+For Your Eyes Only,6.8,127,8,PG,Metro-Goldwyn-Mayer,"$54,812,802.00",1981
+The Four Seasons,7.2,107,9,PG,Universal Pictures,"$50,427,646.00",1981
+Time Bandits,7,110,10,PG,Embassy Pictures,"$42,365,581.00",1981
+Star Wars Episode V: The Empire Strikes Back,8.8,124,1,PG,20th Century Fox,"$209,398,025.00",1980
+9 to 5,6.6,110,2,PG,20th Century Fox,"$103,290,500.00",1980
+Stir Crazy,6.8,111,3,R,Columbia Pictures,"$101,300,000.00",1980
+Airplane!,7.8,88,4,PG,Paramount Pictures,"$83,453,539.00",1980
+Any Which Way You Can,6,116,5,PG,Warner Bros,"$70,687,344.00",1980
+Private Benjamin,6,109,6,R,Warner Bros,"$69,847,348.00",1980
+Coal Miner's Daughter,7.5,124,7,PG,Universal Pictures,"$67,182,787.00",1980
+Smokey and the Bandit II,5.1,100,8,PG,Universal Pictures,"$66,132,626.00",1980
+The Blue Lagoon,5.7,104,9,R,Columbia Pictures,"$58,853,106.00",1980
+The Blues Brothers,8,133,10,R,Universal Pictures,"$57,229,890.00",1980
+Kramer vs. Kramer,7.8,105,1,PG-13,Columbia Pictures,"$106,260,000.00",1979
+The Amityville Horror,6.2,117,2,R,Metro-Goldwyn-Mayer,"$86,432,520.00",1979
+Rocky II,7.1,119,3,PG,Metro-Goldwyn-Mayer,"$85,182,160.00",1979
+Apocalypse Now,8.5,153,4,R,Metro-Goldwyn-Mayer,"$83,471,511.00",1979
+Star Trek: The Motion Picture,6.4,132,5,PG,Paramount Pictures,"$82,258,456.00",1979
+Alien,8.5,117,6,R,20th Century Fox,"$80,931,801.00",1979
+10,6,122,7,R,Warner Bros,"$74,865,517.00",1979
+The Jerk,7.2,94,8,R,Universal Pictures,"$73,691,419.00",1979
+Moonraker,6.2,126,9,PG,Metro-Goldwyn-Mayer,"$70,308,099.00",1979
+The Muppet Movie,7.7,95,10,G,Metro-Goldwyn-Mayer,"$65,200,000.00",1979
+Grease,7.2,110,1,PG-13,Paramount Pictures,"$159,978,870.00",1978
+Superman,7.3,143,2,PG,Warner Bros,"$134,218,018.00",1978
+National Lampoon's Animal House,7.6,109,3,R,Universal Pictures,"$120,091,123.00",1978
+Every Which Way but Loose,6.2,114,4,PG,Warner Bros,"$85,196,485.00",1978
+Heaven Can Wait,6.9,101,5,PG,Paramount Pictures,"$81,640,278.00",1978
+Hooper,6.2,99,6,PG,Warner Bros,"$78,000,000.00",1978
+Jaws 2,5.7,116,7,PG,Universal Pictures,"$77,737,272.00",1978
+Dawn of the Dead,8,127,8,R,Metro-Goldwyn-Mayer,"$59,020,957.00",1978
+Revenge of the Pink Panther,6.7,99,9,PG,Metro-Goldwyn-Mayer,"$49,579,269.00",1978
+The Deer Hunter,8.2,182,10,R,Universal Pictures,"$48,979,328.00",1978
+Star Wars,8.7,121,1,PG,Lionsgate Films,"$307,263,857.00",1977
+Smokey and the Bandit,6.8,96,2,PG,Universal Pictures,"$126,737,428.00",1977
+Close Encounters of the Third Kind,7.7,137,3,PG,Columbia Pictures,"$116,395,460.00",1977
+The Goodbye Girl,7.4,111,4,PG,Metro-Goldwyn-Mayer,"$102,000,000.00",1977
+Saturday Night Fever,6.8,118,5,R,Paramount Pictures,"$94,213,184.00",1977
+"Oh, God!",6.5,98,6,PG,Warner Bros,"$51,061,196.00",1977
+A Bridge Too Far,7.4,175,7,PG,Metro-Goldwyn-Mayer,"$50,750,000.00",1977
+The Deep,6.1,123,8,PG,Columbia Pictures,"$47,346,365.00",1977
+The Spy Who Loved Me,7.1,125,9,PG,Metro-Goldwyn-Mayer,"$46,838,673.00",1977
+Annie Hall,8.1,93,10,PG,Metro-Goldwyn-Mayer,"$38,251,425.00",1977
+Rocky,8.1,119,1,PG,Metro-Goldwyn-Mayer,"$117,235,147.00",1976
+To Fly!,7,27,2,G,National Air and Space Museum,"$86,600,000.00",1976
+A Star Is Born,6.5,139,3,R,Warner Bros,"$80,000,000.00",1976
+All the President's Men,8,138,4,R,Warner Bros,"$70,600,000.00",1976
+The Omen,7.6,111,5,R,20th Century Fox,"$60,922,980.00",1976
+In Search of Noah's Ark,4.6,99,6,G,Sunn Classic Pictures,"$55,700,000.00",1976
+King Kong,5.8,134,7,PG,Paramount Pictures,"$52,614,445.00",1976
+Silver Streak,6.9,114,8,PG,20th Century Fox,"$51,079,064.00",1976
+The Enforcer,6.8,96,9,R,Warner Bros,"$46,236,000.00",1976
+Midway,6.7,132,10,PG,Universal Pictures,"$43,220,000.00",1976
+Dog Day Afternoon,8.1,125,4,R,Warner Bros,"$50,000,000.00",1975
+Shampoo,6.3,109,5,R,Columbia Pictures,"$49,407,734.00",1975
+The Return of the Pink Panther,7.1,113,6,G,Metro-Goldwyn-Mayer,"$41,833,347.00",1975
+Funny Lady,6.4,136,7,PG,Columbia Pictures,"$39,000,000.00",1975
+The Apple Dumpling Gang,6.2,100,8,G,Walt Disney Pictures,"$36,853,000.00",1975
+"Aloha, Bobby and Rose",6,88,9,PG,Columbia Pictures,"$35,000,000.00",1975
+The Other Side of the Mountain,6.4,103,10,PG,Universal Pictures,"$34,673,100.00",1975
